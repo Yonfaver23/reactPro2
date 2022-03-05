@@ -1,0 +1,13 @@
+.bg-dark {
+  background-color: blue;
+}
+.text-white {
+  color: white;
+}
+.custom-img {
+  border-radius: 50px;
+}
+.custom-button {
+  color: white;
+  border-color: white;
+}
