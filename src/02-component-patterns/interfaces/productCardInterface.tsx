@@ -10,3 +10,12 @@ export interface ProductContextProps {
   incrementBy: (value: number) => void;
   product: Product;
 }
+
+export interface productInCard extends Product {
+  count: number;
+}
+
+export interface onChangueArgs {
+  product: Product;
+  count: number;
+}

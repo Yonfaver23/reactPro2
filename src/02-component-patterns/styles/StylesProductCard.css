@@ -1,13 +1,19 @@
 .bg-dark {
-  background-color: blue;
+  background-color: grey;
 }
 .text-white {
   color: white;
 }
 .custom-img {
-  border-radius: 50px;
+  border-radius: 10px;
 }
 .custom-button {
   color: white;
   border-color: white;
+}
+
+.shopping-card {
+  position: fixed;
+  right: 10px;
+  top: 0px;
 }
